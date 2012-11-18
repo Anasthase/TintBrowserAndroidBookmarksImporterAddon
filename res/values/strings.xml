@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+   Android Bookmarks Importer for Tint Browser
+  
+   Copyright (C) 2012 - to infinity and beyond J. Devauchelle and contributors.
+ 
+   This program is free software; you can redistribute it and/or
+   modify it under the terms of the GNU General Public License
+   version 3 as published by the Free Software Foundation.
+ 
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+ -->
+
+<resources>
+
+    <string name="AddonName">Android Bookmarks Importer</string>
+    <string name="AddonShortDescription">Import Android stock browser bookmarks into Tint Browser.</string>
+    <string name="AddonDescription">This addon retrieve the bookmarks from the Android stock browser into Tint Browser\'s bookmarks.</string>
+    <!-- Contact can be email or and url -->
+    <string name="AddonContact">http://www.myaddon.org/</string>
+    
+    <string name="MenuTitle">Import Android bookmarks</string>
+    
+    <string name="ImportInProgressTitle">Import in progress</string>
+    <string name="ImportInProgressMessage">An import is already in progress. Please wait for it to finish before launching another one.</string>
+    
+    <string name="NotificationImportStartTickerText">Android bookmarks import started.</string>
+    <string name="NotificationImportTitle">Android bookmarks import</string>
+    <string name="NotificationImportMessagePreparingImport">Preparing import&#8230;</string>
+    <string name="NotificationImportMessageCreatingFolders">Creating folders&#8230;</string>
+    <string name="NotificationImportMessageCreatingBookmarks">Creating bookmarks %s%%&#8230;</string>
+    
+    <string name="NotificationImportEndTickerText">Android bookmarks import done.</string>
+    <string name="NotificationImportEndMessageOk">Import done without errors.</string>
+
+</resources>
